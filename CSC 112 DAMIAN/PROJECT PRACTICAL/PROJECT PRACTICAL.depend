@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717663824 source:c:\users\hp\desktop\csc 112 practical\project practical\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
